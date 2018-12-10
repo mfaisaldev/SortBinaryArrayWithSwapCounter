@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberBinaryMoveRBC", "NumberBinaryMoveRBC\NumberBinaryMoveRBC.csproj", "{E397BDA4-2691-4034-8BEE-93429C880A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E397BDA4-2691-4034-8BEE-93429C880A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E397BDA4-2691-4034-8BEE-93429C880A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E397BDA4-2691-4034-8BEE-93429C880A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E397BDA4-2691-4034-8BEE-93429C880A92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD730515-EAD2-412E-B22C-1BB9390DE790}
+	EndGlobalSection
+EndGlobal
